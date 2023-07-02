@@ -99,6 +99,13 @@ html {
     }
 }
 
+@media only screen and (max-width:560px) {
+    .pg1title {
+        padding-left: 0;
+    }.pg1txt {
+        padding-left: 0;
+}
+}
 .pg1txt {
     color: white;
     width: 400px;
